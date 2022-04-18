@@ -1,7 +1,7 @@
 #include <iostream>
 #include "functions.h"
 using namespace std;
-
+//homework 28
 int main() {
 	setlocale(LC_ALL, "Russian");
 	//Task 1
